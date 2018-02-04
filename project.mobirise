@@ -1926,30 +1926,6 @@
           }
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "font-size": "32px",
-              "color": "#efefef"
-            }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#2969b0"
-          },
-          "title": "Схема устройства поточного диспергатора РПГ-70-Р-М-ВЗИ",
-          "meta": "",
-          "_tags": [
-            "Тема"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-j"
-        },
-        {
           "_params": {
             "showText": false,
             "paddingTop": "1",
@@ -1975,6 +1951,30 @@
           ],
           "_name": "image2",
           "_anchor": "image2-1q"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "32px",
+              "color": "#efefef"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#2969b0"
+          },
+          "title": "Схема устройства поточного диспергатора РПГ-70-Р-М-ВЗИ",
+          "meta": "",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-j"
         },
         {
           "_params": {
