@@ -927,3 +927,10 @@ h6,
 #header3-w .mbr-section-title {
   font-size: 36px;
 }
+#header3-1l .mbr-section-title,
+#header3-1l .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1l .mbr-section-title {
+  color: #ffffff;
+}

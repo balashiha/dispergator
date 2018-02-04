@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.5.4",
-    "uniqCompNum": 57,
+    "uniqCompNum": 63,
     "versionPublish": "4.5.4",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -219,7 +219,7 @@
             "paddingBottom": 1,
             "bgColor": "#cccccc"
           },
-          "text": "НПО Агромаш специализируется на изготовлении аналогов импортного оборудования IKA, Stephan, Fryma Koruma, Karl Schnell и пр., производя аналоги гомогенизаторов, вакуумных миксеров-гомогенизаторов, смесителей, насосов, автоклавов и прочее. В настоящее время, когда курс евро вырос с 45 до 70 руб. стоимость импортного оборудования существенно возросла, поэтому многим даже иностранным компаниям стало еще выгодней заказывать аналоги импортного оборудования у нас, т.к. разница по стоимости может составлять от нескольких миллионов до десятков миллионов рублей",
+          "text": "НПО Агромаш специализируется на изготовлении аналогов импортного оборудования <b>IKA, Stephan, Fryma Koruma, Karl Schnell</b> и пр., производя аналоги гомогенизаторов, вакуумных миксеров-гомогенизаторов, смесителей, насосов, автоклавов и прочее. В настоящее время, когда курс евро вырос с 45 до 70 руб. стоимость импортного оборудования существенно возросла, поэтому многим даже иностранным компаниям стало еще выгодней заказывать аналоги импортного оборудования у нас, т.к. разница по стоимости может составлять от нескольких миллионов до десятков миллионов рублей",
           "_tags": [
             "Тема"
           ],
@@ -373,125 +373,6 @@
         {
           "_params": {
             "showImages": true,
-            "showTitles": false,
-            "showSubtitles": false,
-            "ShowTexts": false,
-            "showButtons": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "columns": "6",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#7e9b9f",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/220-keycsh-147-220x147.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/220-food-drinks-fruit-juices-220x147.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/220-fashionkids-220x147.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/220-klei-220x147.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media5": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/produkt-kraska-220x158.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media6": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/220-medic-147-220x147.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "title1": "Bootstrap 4",
-          "subtitle1": "Bootstrap признан одним из лучших",
-          "caption1": "Bootstrap был отмечен одним из самых надежных и эффективных мобильных фреймворков, поэтому в Mobirise мы используем только Bootstrap, чтобы Ваши сайты были лучше всех!",
-          "title2": "Адаптивный",
-          "subtitle2": "Сильные стороны Bootstrap",
-          "caption2": "Одним из главнейших преимуществ Bootstrap является адаптивность и качество кода. Mobirise использует все возможности фреймворка, позволяя Вам создавать максимально качественные сайты без программирования.",
-          "title3": "Веб-шрифты",
-          "subtitle3": "Mobirise использует уникальную бесплатную библиотеку Google шрифтов",
-          "caption3": "Mobirise использует уникальную бесплатную библиотеку Google, которая имеет в своём арсенале огромное количество разнообразных шрифтов. Добавляйте на свой сайт любой понравившийся шрифт легко и просто!",
-          "title4": "Множество сайтов",
-          "subtitle4": "Mobirise дает Вам безграничные возможности для разработки",
-          "caption4": "Mobirise дает Вам полную свободу действий в разработке веб-сайтов. Mobirise - Ваше идеальное начало!",
-          "title5": "Красивейшие блоки",
-          "subtitle5": "Выбирайте из огромной коллекции блоков",
-          "caption5": "Mobirise предлагает множество тем, которые включают в себя такие блоки, как слайдеры, галереи, блоки статей, счетчики, блоки с вкладками, видео, анимированным текстом, таблицы с «живыми» фильтрами, магазин, контактные формы, лайтбоксы, отзывы, хронологии, карты, шкалы прогресса и многое другое.",
-          "title6": "Размещайте сайты",
-          "subtitle6": "Не ограничивайтесь только одной платформой",
-          "caption6": "Экспортируйте Ваш сайт на свой компьютер, любые FTP-сервера, включая Amazon, Google Drive, GitHub и другие. Не ограничивайте себя в выборе хостинговой платформы!",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobiriz.store\" class=\"btn btn-primary\">Подробнее</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobiriz.store\" class=\"btn btn-primary\">Подробнее</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobiriz.store\" class=\"btn btn-primary\">Подробнее</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobiriz.store\" class=\"btn btn-primary\">Подробнее</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobiriz.store\" class=\"btn btn-primary\">Подробнее</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobiriz.store\" class=\"btn btn-primary\">Подробнее</a>",
-          "_tags": [
-            "Тема"
-          ],
-          "_name": "features3",
-          "_anchor": "features3-15"
-        },
-        {
-          "_params": {
-            "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": false,
@@ -608,125 +489,6 @@
         {
           "_params": {
             "showImages": true,
-            "showTitles": false,
-            "showSubtitles": false,
-            "ShowTexts": false,
-            "showButtons": false,
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "columns": "6",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#90a878",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/2015071323560166346-435x296.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/2015071400121865807-435x296.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/2015071400343063604-435x296.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/2015071419083199078-435x296.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media5": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/2015071400401997595-435x296.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media6": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/2015071400045717253-435x296.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "title1": "Bootstrap 4",
-          "subtitle1": "Bootstrap признан одним из лучших",
-          "caption1": "Bootstrap был отмечен одним из самых надежных и эффективных мобильных фреймворков, поэтому в Mobirise мы используем только Bootstrap, чтобы Ваши сайты были лучше всех!",
-          "title2": "Адаптивный",
-          "subtitle2": "Сильные стороны Bootstrap",
-          "caption2": "Одним из главнейших преимуществ Bootstrap является адаптивность и качество кода. Mobirise использует все возможности фреймворка, позволяя Вам создавать максимально качественные сайты без программирования.",
-          "title3": "Веб-шрифты",
-          "subtitle3": "Mobirise использует уникальную бесплатную библиотеку Google шрифтов",
-          "caption3": "Mobirise использует уникальную бесплатную библиотеку Google, которая имеет в своём арсенале огромное количество разнообразных шрифтов. Добавляйте на свой сайт любой понравившийся шрифт легко и просто!",
-          "title4": "Множество сайтов",
-          "subtitle4": "Mobirise дает Вам безграничные возможности для разработки",
-          "caption4": "Mobirise дает Вам полную свободу действий в разработке веб-сайтов. Mobirise - Ваше идеальное начало!",
-          "title5": "Красивейшие блоки",
-          "subtitle5": "Выбирайте из огромной коллекции блоков",
-          "caption5": "Mobirise предлагает множество тем, которые включают в себя такие блоки, как слайдеры, галереи, блоки статей, счетчики, блоки с вкладками, видео, анимированным текстом, таблицы с «живыми» фильтрами, магазин, контактные формы, лайтбоксы, отзывы, хронологии, карты, шкалы прогресса и многое другое.",
-          "title6": "Размещайте сайты",
-          "subtitle6": "Не ограничивайтесь только одной платформой",
-          "caption6": "Экспортируйте Ваш сайт на свой компьютер, любые FTP-сервера, включая Amazon, Google Drive, GitHub и другие. Не ограничивайте себя в выборе хостинговой платформы!",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobiriz.store\" class=\"btn btn-primary\">Подробнее</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobiriz.store\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробнее</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobiriz.store\" class=\"btn btn-primary\">Подробнее</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobiriz.store\" class=\"btn btn-primary\">Подробнее</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobiriz.store\" class=\"btn btn-primary\">Подробнее</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobiriz.store\" class=\"btn btn-primary\">Подробнее</a>",
-          "_tags": [
-            "Тема"
-          ],
-          "_name": "features3",
-          "_anchor": "features3-16"
-        },
-        {
-          "_params": {
-            "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": false,
@@ -839,6 +601,125 @@
           ],
           "_name": "features3",
           "_anchor": "features3-1f"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": false,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": "6",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#90a878",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/220-keycsh-147-220x147.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/220-food-drinks-fruit-juices-220x147.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/220-fashionkids-220x147.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/220-klei-220x147.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/produkt-kraska-220x158.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/220-medic-147-220x147.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap признан одним из лучших",
+          "caption1": "Bootstrap был отмечен одним из самых надежных и эффективных мобильных фреймворков, поэтому в Mobirise мы используем только Bootstrap, чтобы Ваши сайты были лучше всех!",
+          "title2": "Адаптивный",
+          "subtitle2": "Сильные стороны Bootstrap",
+          "caption2": "Одним из главнейших преимуществ Bootstrap является адаптивность и качество кода. Mobirise использует все возможности фреймворка, позволяя Вам создавать максимально качественные сайты без программирования.",
+          "title3": "Веб-шрифты",
+          "subtitle3": "Mobirise использует уникальную бесплатную библиотеку Google шрифтов",
+          "caption3": "Mobirise использует уникальную бесплатную библиотеку Google, которая имеет в своём арсенале огромное количество разнообразных шрифтов. Добавляйте на свой сайт любой понравившийся шрифт легко и просто!",
+          "title4": "Множество сайтов",
+          "subtitle4": "Mobirise дает Вам безграничные возможности для разработки",
+          "caption4": "Mobirise дает Вам полную свободу действий в разработке веб-сайтов. Mobirise - Ваше идеальное начало!",
+          "title5": "Красивейшие блоки",
+          "subtitle5": "Выбирайте из огромной коллекции блоков",
+          "caption5": "Mobirise предлагает множество тем, которые включают в себя такие блоки, как слайдеры, галереи, блоки статей, счетчики, блоки с вкладками, видео, анимированным текстом, таблицы с «живыми» фильтрами, магазин, контактные формы, лайтбоксы, отзывы, хронологии, карты, шкалы прогресса и многое другое.",
+          "title6": "Размещайте сайты",
+          "subtitle6": "Не ограничивайтесь только одной платформой",
+          "caption6": "Экспортируйте Ваш сайт на свой компьютер, любые FTP-сервера, включая Amazon, Google Drive, GitHub и другие. Не ограничивайте себя в выборе хостинговой платформы!",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobiriz.store\" class=\"btn btn-primary\">Подробнее</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobiriz.store\" class=\"btn btn-primary\">Подробнее</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobiriz.store\" class=\"btn btn-primary\">Подробнее</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobiriz.store\" class=\"btn btn-primary\">Подробнее</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobiriz.store\" class=\"btn btn-primary\">Подробнее</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobiriz.store\" class=\"btn btn-primary\">Подробнее</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-15"
         },
         {
           "_params": {
@@ -2070,6 +1951,33 @@
         },
         {
           "_params": {
+            "showText": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#7e9b9f"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/reaktor-fermenter-1400x787.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Бесплатно создавайте адаптивные сайты без навыков веб-программирования!",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-1q"
+        },
+        {
+          "_params": {
             "showImages": true,
             "showTitles": false,
             "showSubtitles": false,
@@ -2188,14 +2096,14 @@
             "showSubtitles": false,
             "ShowTexts": false,
             "showButtons": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": 2,
+            "paddingBottom": 2,
             "columns": "6",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#7e9b9f",
+            "bgColor": "#90a878",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2206,7 +2114,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/220-keycsh-147-220x147.jpg",
+              "src": "@PROJECT_PATH@/assets/images/2015071323560166346-435x296.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2217,7 +2125,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/220-food-drinks-fruit-juices-220x147.jpg",
+              "src": "@PROJECT_PATH@/assets/images/2015071400121865807-435x296.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2228,7 +2136,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/220-fashionkids-220x147.jpg",
+              "src": "@PROJECT_PATH@/assets/images/2015071400343063604-435x296.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2239,7 +2147,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/220-klei-220x147.jpg",
+              "src": "@PROJECT_PATH@/assets/images/2015071419083199078-435x296.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2250,7 +2158,7 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/produkt-kraska-220x158.jpg",
+              "src": "@PROJECT_PATH@/assets/images/2015071400401997595-435x296.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2261,7 +2169,7 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/220-medic-147-220x147.jpg",
+              "src": "@PROJECT_PATH@/assets/images/2015071400045717253-435x296.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2289,7 +2197,7 @@
           "subtitle6": "Не ограничивайтесь только одной платформой",
           "caption6": "Экспортируйте Ваш сайт на свой компьютер, любые FTP-сервера, включая Amazon, Google Drive, GitHub и другие. Не ограничивайте себя в выборе хостинговой платформы!",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobiriz.store\" class=\"btn btn-primary\">Подробнее</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobiriz.store\" class=\"btn btn-primary\">Подробнее</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobiriz.store\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробнее</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobiriz.store\" class=\"btn btn-primary\">Подробнее</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobiriz.store\" class=\"btn btn-primary\">Подробнее</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobiriz.store\" class=\"btn btn-primary\">Подробнее</a>",
@@ -2298,7 +2206,7 @@
             "Тема"
           ],
           "_name": "features3",
-          "_anchor": "features3-l"
+          "_anchor": "features3-1o"
         },
         {
           "_params": {
@@ -2362,6 +2270,29 @@
           ],
           "_name": "content2",
           "_anchor": "content2-u"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#3d8eb9"
+          },
+          "title": "Вакуумные миксеры гомогенизаторы - аналоги импортных",
+          "meta": "Опубликовано Дмитрием 30 июля, 2017",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1l"
         },
         {
           "_params": {
